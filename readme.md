@@ -1,6 +1,10 @@
 # FastaTransformer
 FastaTransformer is a python toolset containing fucntions to simplify the usage of .fasta files in analysis as well as transform them into useful states for other tools.
 
+### Authors
+
+The primary author of the FastaTransformer package is MDinhobl.
+
 ## Major Functions
 The following list contains the most useful functions of FastaTransformer.
 

@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: FastaTransformer
-Version: 0.0.10
+Version: 0.0.11
 Summary: This package helps resolve bioprogramming problems
-Home-page: https://github.com/MichaelKim0407/tutorial-pip-package
+Home-page: https://github.com/Global-ASFV-Research-Alliance/FastaTransformer
 Author: MDinhobl
 Author-email: markdinhobl@gmail.com
-Project-URL: Bug Tracker, https://github.com/MichaelKim0407/tutorial-pip-package
+Project-URL: Bug Tracker, https://github.com/Global-ASFV-Research-Alliance/FastaTransformer
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -14,6 +14,10 @@ Description-Content-Type: text/markdown
 
 # FastaTransformer
 FastaTransformer is a python toolset containing fucntions to simplify the usage of .fasta files in analysis as well as transform them into useful states for other tools.
+
+### Authors
+
+The primary author of the FastaTransformer package is MDinhobl.
 
 ## Major Functions
 The following list contains the most useful functions of FastaTransformer.
